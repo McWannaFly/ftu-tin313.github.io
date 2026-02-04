@@ -96,4 +96,4 @@ Tìm phần **"Kỹ Năng"** và thêm/sửa các kỹ năng của bạn.
 
 ---
 
-**Chúc bạn làm portfolio thành công! 🎉**
+**Chúc bạn làm portfolio thành công! **
