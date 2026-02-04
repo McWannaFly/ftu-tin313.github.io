@@ -2,7 +2,7 @@
 
 Portfolio cá nhân được tạo theo template Jon Barron.
 
-## 📁 Cấu trúc Files
+## Cấu trúc Files
 
 ```
 portfolio/
@@ -16,7 +16,7 @@ portfolio/
 └── README.md          # File này
 ```
 
-## 🚀 Hướng dẫn Deploy lên GitHub Pages
+## Hướng dẫn Deploy lên GitHub Pages
 
 ### Bước 1: Tạo tài khoản GitHub
 1. Truy cập https://github.com
@@ -63,7 +63,7 @@ portfolio/
 - Sau 1-2 phút, website sẽ live tại: `https://username.github.io`
 - Ví dụ: `https://minhchi-ktdn.github.io`
 
-## ✏️ Tùy chỉnh nội dung
+## Tùy chỉnh nội dung
 
 ### Cập nhật thông tin cá nhân
 Mở file `index.html` và sửa:
@@ -83,13 +83,13 @@ Mở file `index.html` và sửa:
 ### Cập nhật kỹ năng
 Tìm phần **"Kỹ Năng"** và thêm/sửa các kỹ năng của bạn.
 
-## 💡 Tips
+## Tips
 - Ảnh profile nên là ảnh vuông (vd: 400x400px) để hiển thị đẹp
 - Ảnh project nên tỉ lệ 16:9 hoặc 4:3
 - Sau khi sửa file trên GitHub, click **"Edit"** → sửa → **"Commit changes"**
 - Website sẽ tự động cập nhật sau vài phút
 
-## 📚 Tài liệu tham khảo
+## Tài liệu tham khảo
 - [GitHub Pages Documentation](https://docs.github.com/en/pages)
 - [Jon Barron's Website](https://jonbarron.info/)
 - [Markdown Guide](https://www.markdownguide.org/)
